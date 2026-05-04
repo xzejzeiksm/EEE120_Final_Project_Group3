@@ -62,3 +62,7 @@ During the development of this project, AI tools were utilized for:
 4. Run the following command:
    ```bash
    python main.py
+   ## 📄 Presentation
+## 📄 Presentation
+View our interactive pitch deck:
+[👉 View Presentation on Canva] (https://canva.link/0nnmlk7wrf4lvto)
